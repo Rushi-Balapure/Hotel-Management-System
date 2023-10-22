@@ -176,13 +176,13 @@ INSERT INTO `staff` (`id`, `name`, `work`) VALUES
 (1, 'Tushar pankhaniya', 'Manager'),
 (3, 'rohit patel', 'Cook'),
 (4, 'Dipak', 'Cook'),
-(5, 'tirth', 'Helper'),
-(6, 'mohan', 'Helper'),
-(7, 'shyam', 'cleaner'),
-(8, 'rohan', 'weighter'),
-(9, 'hiren', 'weighter'),
-(10, 'nikunj', 'weighter'),
-(11, 'rekha', 'Cook');
+(5, 'Tirth', 'Helper'),
+(6, 'Mohan', 'Helper'),
+(7, 'Shyam', 'Cleaner'),
+(8, 'Rohan', 'Waiter'),
+(9, 'Hiren', 'Waiter'),
+(10, 'Nikunj', 'Waiter'),
+(11, 'Rekha', 'Cook');
 
 --
 -- Indexes for dumped tables
